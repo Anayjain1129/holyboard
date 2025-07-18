@@ -49,7 +49,6 @@ created_at: "2025-07-17"
 
 >I think it looks cool I added some text to it and really nice Arch btw logo.
 >I use Arch-btw, with hyprland.
-
 >Then I thought to start with my CAD but yea Typical indian parents yea my parents they asked me to sleep so yea I will work on it later.
 
 **Time Spent: 7hrs**
