@@ -5,7 +5,7 @@ description: "Customs keeb with a OLED"
 created_at: "2025-07-17"
 ---
 
-**Total time spent so far: 7hrs**
+**Total time spent so far: 12hrs**
 
 ## 19th July: SCH, PCB
 >Alr so like i have made a numpad and now I wanted to make a full freaking keyboard so here it comes First I chose the basic things like the MCU, The switches the basic layout and all.
@@ -52,3 +52,33 @@ created_at: "2025-07-17"
 >Then I thought to start with my CAD but yea Typical indian parents yea my parents they asked me to sleep so yea I will work on it later.
 
 **Time Spent: 7hrs**
+
+## 21th July: CAD & Firmware
+>bed news guys! I thought I would not make this keeb but, It's bed that my last keeb is rejected so yea I 'm gonna complete this one and submit it 😭
+>So like I worked on the top middle plate and bottom, I will be using sanwich mounting for it cause it's easy to build and also easy to print the parts.
+>Here is the Screenshots of my progress I dont think I can explain it but I have a bunch of screenshots so yea here they are
+
+![](/images/case1.png)
+![](/images/holes.png)
+![](/images/case2.png)
+![](/images/case3.png)
+![](/images/csae4.png)
+![](/images/case7.png)
+![](/images/case8.png)
+![](/images/case9.png)
+![](/images/case10.png)
+![](/images/back.png)
+
+>here are the final products.
+![](/images/top.png)
+![](/images/mid.png)
+![](/images/back.png)
+![](/images/final.png)
+
+>Alr so Like as I'm using raspberry pi pico there is a micro usb port which I have to use and no usb-c and the raspberry pi pico which i'm buyign also comes with a cable so I will just leave it plugged in to avoid the destruction of the pico so yea , for that I have kept/Made a room for it oin the keeb and i asked arnav who is gonna print my case He said it will be good to go to print the case and it looks awesome, Last time my keeb got rejected because of the CAse only so this time the name of the keeb is Orpheus-Pad which Which I hav eextruded on the top to make it look more personalized and also I have added alot of things in the back.
+
+>Then the last part the firmware, I took help from the guides of hackpad and also a guide from hackclubbers and also the Raspberry Pi pico GPIO pinout documentation.
+![](/images/firmware.png)
+>Making the repo and submitting it.
+
+**Time Spent: 5hrs**
