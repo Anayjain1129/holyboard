@@ -25,7 +25,7 @@ Features:
 
 ### PCB 
 ![image](images/silk1.png)
-
+![image](images/3dpcb.png)
 
 ### Case
 - Bottom
@@ -39,8 +39,9 @@ Features:
 The space which is remaining and is empty is intetional cause i will be using stickers there
 
 ### 3D view of all parts together 
-![image](images/final.png)
-![image](images/back.png)
+![image](images/final1.png)
+![image](images/final2.png)
+![image](images/final3.png)
 
 I also have a  secret compartment where you can keep you rubberducky shhh.. dont tell anyone.
 
