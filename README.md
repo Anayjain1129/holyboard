@@ -44,7 +44,7 @@ The space which is remaining and is empty is intetional cause i will be using st
 ![image](images/final3.png)
 
 I also have a  secret compartment where you can keep you rubberducky shhh.. dont tell anyone.
-
+A special thanks to Kai, Aditya, Mohid and The-Wolf and big thanks to alex who is helping me to make my projects better. 💓
 
 ## BOM
 
