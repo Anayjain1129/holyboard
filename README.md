@@ -62,6 +62,6 @@ I also have a  secret compartment where you can keep you rubberducky shhh.. dont
 | Case- top,mid,bot                                             | 1   | Print Legion
 
 ## Total Pricing
-The total price comes out to be 12,249.29 INR ($142.96)
+The total price comes out to be 11,660.13 INR ($135.17)
 
 The pricing might slightly vary due to flash sales, and dollar market trends.
