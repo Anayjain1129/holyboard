@@ -24,7 +24,7 @@ Features:
 
 
 ### PCB 
-![image](images/silk.png)
+![image](images/silk1.png)
 
 
 ### Case
