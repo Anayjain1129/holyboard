@@ -31,9 +31,6 @@ Features:
 - Bottom
 ![image](images/back.png)
 
-- Middle plate
-![image](images/mid.png)
-
 - Top
 ![image](images/top.png)
 The space which is remaining and is empty is intetional cause i will be using stickers there
