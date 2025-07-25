@@ -1,7 +1,7 @@
 ![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 
 # Orpheus-Pad
-![image](images/final3.png)
+![image](images/best.png)
 
 ### Why did I make it?
 I made it because I want keeb so bed and my keyboar has stop working😭, So, I though I can make it through highway.
@@ -36,9 +36,9 @@ Features:
 The space which is remaining and is empty is intetional cause i will be using stickers there
 
 ### 3D view of all parts together 
-![image](images/final1.png)
-![image](images/final2.png)
-![image](images/final3.png)
+![image](images/best.png)
+![image](images/best2.png)
+![image](images/best3.png)
 
 I also have a  secret compartment where you can keep you rubberducky shhh.. dont tell anyone.
 A special thanks to Kai, Aditya, Mohid and The-Wolf and big thanks to alex who is helping me to make my projects better. 💓
