@@ -29,10 +29,11 @@ Features:
 
 ### Case
 - Bottom
-![image](images/back.png)
+I had to make it transparent just because the black color wasn't visible in the onshape, i will get all the parts printed in black color
+![image](images/bat.png)
 
 - Top
-![image](images/top.png)
+![image](images/tap.png)
 The space which is remaining and is empty is intetional cause i will be using stickers there
 
 ### 3D view of all parts together 
