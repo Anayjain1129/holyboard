@@ -45,7 +45,7 @@ I made some asthetics for my custom keeb. Like I have added holes on all the sid
 ![image](images/best2.png)
 ![image](images/best3.png)
 link to full 3d thing-
-https://cad.onshape.com/documents/3b52539c3398d6f2b173a1a6/w/f3139cde529a1c3db3227929/e/7c24deaf4c10fb8415417c6e?renderMode=0&uiState=6884a6931d8de531aaede83c
+![image](images/image_720.png)
 
 I also have a  secret compartment where you can keep you rubberducky shhh.. dont tell anyone.
 A special thanks to Kai, Aditya, Mohid and The-Wolf and big thanks to alex who is helping me to make my projects better. 💓
