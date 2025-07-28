@@ -36,6 +36,10 @@ I had to make it transparent just because the black color wasn't visible in the 
 ![image](images/tap.png)
 The space which is remaining and is empty is intetional cause i will be using stickers there
 
+- Side
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/af52ddef42f5ab1f7aa3000df8b2fb0d08ba87fa_image.png
+I made some asthetics for my custom keeb. Like I have added holes on all the sides to make it look more good
+
 ### 3D view of all parts together 
 ![image](images/best.png)
 ![image](images/best2.png)
