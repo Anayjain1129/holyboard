@@ -1,7 +1,7 @@
 ![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 
 # Orpheus-Pad
-![image](images/best.png)
+![image](images/bruh.png)
 
 ### Why did I make it?
 I made it because I want keeb so bed and my keyboar has stop working😭, So, I though I can make it through highway.
@@ -28,24 +28,21 @@ Features:
 ![image](images/3dpcb.png)
 
 ### Case
-- Bottom
-I had to make it transparent just because the black color wasn't visible in the onshape, i will get all the parts printed in black color
-![image](images/bat.png)
 
-- Top
-![image](images/tap.png)
+![image](images/bruh1.png)
 The space which is remaining and is empty is intetional cause i will be using stickers there
 
 - Side
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/af52ddef42f5ab1f7aa3000df8b2fb0d08ba87fa_image.png
+![image](images/bruh2.png)
 I made some asthetics for my custom keeb. Like I have added holes on all the sides to make it look more good
 
 ### 3D view of all parts together 
-![image](images/best.png)
-![image](images/best2.png)
-![image](images/best3.png)
+![image](images/bruh.png)
+![image](images/bruh1.png)
+![image](images/bruh2.png)
+![image](images/bruh3.png)
 link to full 3d thing-
-![image](images/image_720.png)
+https://cad.onshape.com/documents/cac1d933657028d584a203ec/w/4e6a3fc25500be93378999df/e/b6dbc2fcb8cb6ab38fa48a89?renderMode=0&uiState=688a702c2d96e6706e64265e
 
 I also have a  secret compartment where you can keep you rubberducky shhh.. dont tell anyone.
 A special thanks to Kai, Aditya, Mohid and The-Wolf and big thanks to alex who is helping me to make my projects better. 💓
