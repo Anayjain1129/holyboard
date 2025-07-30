@@ -5,7 +5,7 @@ description: "Customs keeb with a OLED"
 created_at: "2025-07-17"
 ---
 
-**Total time spent so far: 12hrs**
+**Total time spent so far: 16hrs**
 
 ## 19th July: SCH, PCB
 >Alr so like i have made a numpad and now I wanted to make a full freaking keyboard so here it comes First I chose the basic things like the MCU, The switches the basic layout and all.
@@ -92,3 +92,8 @@ created_at: "2025-07-17"
 ![](/images/bruh2.png)
 ![](/images/bruh3.png)
 ![](/images/bruh4.png)
+
+It's 1.35am rn And I'm gonna grind now cause tmr is holiday :yay
+Thanks kai for helping me in almost all of my projects and reviewing too 🫀
+
+**Time Spent: 4hrs**
