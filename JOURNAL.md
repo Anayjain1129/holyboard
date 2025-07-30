@@ -82,3 +82,13 @@ created_at: "2025-07-17"
 >Making the repo and submitting it.
 
 **Time Spent: 5hrs**
+
+
+## 31th July: Making the changes that were asked
+>So, Kai told me everything is okay expect the case so, here it comes Caffine drinks and my ani-pad oh yea I built my anipad today, and it was really messy around my table cause Soldering items all over so yea, first I saw the reddit channel for some inspo and then I thought how can i make it liek the basic design, after that there was a power cut out in my local area so I just waited, then I went to my fucking tutions and there I finalized my designs then when I got back home I started working my ani-pad with being in huddle with my best friend then after that I started to work on my CAD pf my keeb so I just knew What I have to make in my mind so i just started making it then I yea I took more inspo then yea I did it I didn't took so much time by while rendering my laptop crashed like 2 times 😭 nvm here are the screenshots of final products.
+
+![](/images/bruh.png)
+![](/images/bruh1.png)
+![](/images/bruh2.png)
+![](/images/bruh3.png)
+![](/images/bruh4.png)
